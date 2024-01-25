@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* remove a linha que fica envolta quando selecionado */
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    user-select: none;
+}
